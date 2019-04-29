@@ -18,7 +18,7 @@ Human-Computer Interaction
 또, 아이들의 좋아하는 음식과 싫어하는 음식을 조사한 결과, 좋아하는 음식은 대부분 인스턴트나 패스트푸드였고 싫어하는 음식은 야채, 과일과 같은 건강한 음식들이었다.
 우리의 생각보다 많은 아이들의 운동량이 부족했기 때문에 **몸을 움직이며 운동량을 늘리고**, 식습관과 수면습관과 같은 **건강에 관련된 생활습관**에 관한 내용으로 게임의 방향을 발전시켰다.
 
-![graph1](https://user-images.githubusercontent.com/37058269/56876754-8b7d9000-6a84-11e9-9473-b0326f033194.png)
+![graph1-01](https://user-images.githubusercontent.com/37058269/56876792-c1bb0f80-6a84-11e9-9c97-92214fc8809a.png)
 ![190408_top5_정렬-01](https://user-images.githubusercontent.com/37058269/56876382-eeb9f300-6a81-11e9-89a8-62859ba6ce8c.jpg)![3](https://user-images.githubusercontent.com/37058269/56875031-0b9df880-6a79-11e9-879d-fbb17da2ce59.JPG)
 
 #### 01. 캐릭터-뛰용이
