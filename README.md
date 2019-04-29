@@ -27,8 +27,9 @@ Human-Computer Interaction
 ![캐릭터](https://user-images.githubusercontent.com/37058269/56876502-c4b50080-6a82-11e9-849e-59162d570d3b.png)
 User research 결과 아이들이 좋아하는 게임은 대부분 3D 게임이라는 결과를 통해 3D 캐릭터로 만들었다.
 
+  
 
-#### 01. 미니게임 concepts
+#### 01. 게임 구성
 타깃이 아이들이기 때문에, 한가지 게임만으로는 쉽게 질려 해 운동량을 증가시키기 어려울 것이라고 생각했다.
 다양한 내용의 미니게임 6가지로 구성했다.
 
