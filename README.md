@@ -21,8 +21,8 @@ Human-Computer Interaction
 ![3](https://user-images.githubusercontent.com/37058269/56875031-0b9df880-6a79-11e9-879d-fbb17da2ce59.JPG)
 
 #### 01. 캐릭터 
-> 이름: 뛰용이
-> User research 결과 아이들이 좋아하는 게임은 대부분 3D 게임이었으므로 3D 캐릭터로 만들었다.
+이름: 뛰용이
+User research 결과 아이들이 좋아하는 게임은 대부분 3D 게임이라는 것을  3D 캐릭터로 만들었다.
 
 #### 02. 인터페이스 디자인
 
