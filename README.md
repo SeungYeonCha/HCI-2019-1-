@@ -21,7 +21,7 @@ Human-Computer Interaction
 ![graph1-01-01](https://user-images.githubusercontent.com/37058269/56877487-5d4e7f00-6a89-11e9-9176-848535e06a97.png)
 ![190408_top5_정렬-01](https://user-images.githubusercontent.com/37058269/56876382-eeb9f300-6a81-11e9-89a8-62859ba6ce8c.jpg)![3](https://user-images.githubusercontent.com/37058269/56875031-0b9df880-6a79-11e9-879d-fbb17da2ce59.JPG)
 
-#### 01. 캐릭터-뛰용이
+#### 01. Step by step tutorial
 ![캐릭터](https://user-images.githubusercontent.com/37058269/56876502-c4b50080-6a82-11e9-849e-59162d570d3b.png)
 User research 결과 아이들이 좋아하는 게임은 대부분 3D 게임이라는 결과를 통해 3D 캐릭터로 만들었다.
 
