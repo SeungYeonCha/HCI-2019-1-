@@ -20,8 +20,8 @@ Human-Computer Interaction
 ![1](https://user-images.githubusercontent.com/37058269/56875027-06d94480-6a79-11e9-99c8-4eafc21fff17.JPG)
 ![190408_top5_정렬-01](https://user-images.githubusercontent.com/37058269/56876382-eeb9f300-6a81-11e9-89a8-62859ba6ce8c.jpg)![3](https://user-images.githubusercontent.com/37058269/56875031-0b9df880-6a79-11e9-879d-fbb17da2ce59.JPG)
 
-#### 01. 캐릭터 
-이름: 뛰용이
+#### 01. 캐릭터-뛰용이
+![캐릭터](https://user-images.githubusercontent.com/37058269/56876502-c4b50080-6a82-11e9-849e-59162d570d3b.png)
 User research 결과 아이들이 좋아하는 게임은 대부분 3D 게임이라는 것을  3D 캐릭터로 만들었다.
 
 #### 02. 인터페이스 디자인
