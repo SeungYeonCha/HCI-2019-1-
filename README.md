@@ -62,6 +62,7 @@ User research 결과 아이들이 좋아하는 게임은 대부분 3D 게임이�
 
 #### 05. Photos and Videos
 [Paper prototype](https://youtu.be/nl1ajd3uU3o)
+
 [Prototype test - 타겟 유저인 아동들을 대상으로 진행](https://youtu.be/3JFlcdSHb60)
 
 #### 06. Reference
