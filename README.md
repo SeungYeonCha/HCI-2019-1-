@@ -64,7 +64,7 @@ Spin Base: 캐릭터 뛰용과 <꿈나라로 뛰어가요> 공의 상하좌우, 
 Right/Left Hand Tip: <지방 복싱> 오른쪽, 왼쪽 글러브 상하좌우, 거리 표현
 
 
-##### 게임 튜토리얼
+##### 게임 튜토리얼 [유저 플레이 영상](https://youtu.be/eOAuMgEgBc4)
 ![image](https://user-images.githubusercontent.com/37058269/58229655-3f64f900-7d6d-11e9-801b-e21e6f79183c.png)
 - User가 점프하면 캐릭터 뛰용이 게임시작 버튼에 닿음, 
 - 미니게임을 선택할 수 있는 화면이 나오고 화살표에 캐릭터 뛰용이 닿으면 다음 게임으로 바뀜. 미니게임 썸네일 위치에서 User가 점프하여 캐릭터 뛰용이 닿으면 해당 게임으로 화면 넘어감
@@ -101,8 +101,6 @@ Right/Left Hand Tip: <지방 복싱> 오른쪽, 왼쪽 글러브 상하좌우, �
 [Paper prototype](https://youtu.be/8O7r_UCfcts)
 
 [Prototype test - 요약 영상](https://youtu.be/3JFlcdSHb60)
-
-[Prototype test - 유저 플레이 영상](https://youtu.be/eOAuMgEgBc4)
 
 
 #### 05. Reference
