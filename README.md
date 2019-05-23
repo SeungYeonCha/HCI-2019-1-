@@ -103,12 +103,13 @@ Right/Left Hand Tip: <지방 복싱> 오른쪽, 왼쪽 글러브 상하좌우, �
 [뛰뛰쿨쿨 게임 코드 다운받으러 가기](https://drive.google.com/file/d/1i2l00q4xolkikD1NLW0cRwdchtC2Jlrg/view?usp=sharing)
 
 
-#### 04. Details
-
-#### 05. Photos and Videos
+#### 04. Photos and Videos
 [Paper prototype](https://youtu.be/8O7r_UCfcts)
 
 [Prototype test - 요약 영상](https://youtu.be/3JFlcdSHb60)
 
 [Prototype test - 유저 플레이 영상](https://youtu.be/eOAuMgEgBc4)
-#### 06. Reference
+
+
+#### 05. Reference
+https://social.msdn.microsoft.com/Forums/en-US/c818387d-8717-48a9-b562-738e9e0b69e5/joints-in-kinect-v2?forum=kinectv2sdk
