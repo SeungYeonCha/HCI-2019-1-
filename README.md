@@ -60,6 +60,7 @@ Kinect 카메라가 User를 인식하여 User의 관절의 위치를 x, y, z 좌
 입력 받은 User의 좌표를 이용하여 Scratch X를 통해 게임 구현
 - 사용한 좌표
 Spin Base: 캐릭터 뛰용과 <꿈나라로 뛰어가요> 공의 상하좌우, 거리 표현
+
 Right/Left Hand Tip: <지방 복싱> 오른쪽, 왼쪽 글러브 상하좌우, 거리 표현
 
 
