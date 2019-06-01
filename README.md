@@ -55,7 +55,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=44561
 -	Launch Scratch X
 https://github.com/stephenhowell/kinect2scratch
 ![image](https://user-images.githubusercontent.com/37058269/58229632-2bb99280-7d6d-11e9-91c0-1c4995d04bd9.png)
-![image](https://user-images.githubusercontent.com/37058269/58229636-2eb48300-7d6d-11e9-9280-5f93daa5ec1d.png)
+![image](https://user-images.githubusercontent.com/37058269/58751912-980c6280-84e0-11e9-8108-bf563de98e81.png)
 Kinect 카메라가 User를 인식하여 User의 관절의 위치를 x, y, z 좌표로 입력 받음
 입력 받은 User의 좌표를 이용하여 Scratch X를 통해 게임 구현
 - 사용한 좌표
